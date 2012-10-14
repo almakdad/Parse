@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name = 'Parse'
   s.version = '1.1.12'
-  s.license = 'https://parse.com/about/terms'
+  s.license = 'unknown'
   s.platform = :ios
   s.summary = 'The mobile app platform for developers.'
   s.homepage = 'http://parse.com/'
